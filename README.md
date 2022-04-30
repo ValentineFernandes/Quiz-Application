@@ -1,3 +1,11 @@
 # Quiz-Application
-This is a simple  JavaScript Quiz Application.
-You can visit my website by clicking here https://valentinefernandes.github.io/Quiz-Application/ 
+  * a website where users can give quiz
+  * users can restart the quiz
+
+# Technologies used
+  * HTML
+  * CSS
+  * Javascript
+
+# Visit the website here
+https://valentinefernandes.github.io/Quiz-Application/ 
