@@ -1,6 +1,6 @@
 # Quiz-Application
-  * a website where users can give quiz
-  * users can restart the quiz
+✅ a website where users can give quiz<br/>
+✅ users can restart the quiz
 <img width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" />
 
 # Technologies used
@@ -18,3 +18,10 @@
 
 # License
 This project is under <a href="https://github.com/ValentineFernandes/Quiz-Application/blob/main/LICENSE">MIT</a> license.
+
+# Contribution
+If you liked the project :<br/>
+✅ Give a star. ⭐ <br/>
+✅ Fork the repository.<br/>
+✅ Clone the project to your own computer.<br/>
+✅ Commit changes.
