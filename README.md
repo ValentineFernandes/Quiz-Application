@@ -1,6 +1,6 @@
 # Quiz-Application
-✅ a website where users can give quiz<br/>
-✅ users can restart the quiz
+✅ This is a website where users can give quiz<br/>
+✅ Users can restart the quiz
 <img width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" />
 
 # Technologies used
