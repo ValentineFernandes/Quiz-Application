@@ -1,6 +1,5 @@
-# Quiz-Application
-✅ This is a website where users can give quiz<br/> 
-✅ Users can restart the quiz
+<h1 align="center">Quiz-Application</h1>
+
 <img width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /> 
 
 # Technologies used
