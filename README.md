@@ -14,6 +14,8 @@
 <img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/Quiz-Application?color=#1AD043" />
 </p>
 
+> On this website, users can respond to the quiz questions, and the quiz can be retaken after getting their responses.
+
 <div align="center">
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /> 
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/quiz.jpg" />
