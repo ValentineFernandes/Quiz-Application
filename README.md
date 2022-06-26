@@ -14,9 +14,12 @@
 <img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/Quiz-Application?color=#1AD043" />
 </p>
 
+
 > In this Quiz Application, users can respond to the quiz questions, and the quiz can be retaken after getting their responses. 
 
 > This Quiz Application is compatible with mobile devices.
+
+
 
 <div align="center">
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /> 
@@ -24,6 +27,12 @@
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/quiz1.jpg" />
 </div>
 
+
+<div align="center">
+<sub>This Quiz Application is created by
+<a href="https://github.com/ValentineFernandes">Valentine Fernandes </a>
+</sub>
+</div>
 
 
 # Technologies used
